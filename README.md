@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RobGanon
-- 👀 I’m interested in BitCoin
-- 🌱 I’m currently learning Bitcoin
-- 💞️ I’m looking to collaborate on bitCoin
-- 📫 You can reach me on Twitter 
+- 👀 I’m interested in BitCoin/Si
+- 🌱 I’m currently learning Bitcoin/Si
+- 💞️ I’m looking to collaborate on bitCoin/Si
+- 📫 You can reach me on X
 
 <!---
 RobGanon/RobGanon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
