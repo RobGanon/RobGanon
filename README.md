@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobGanon
-- 👀 I’m interested in the original BitCoin/Si referenced in the whitepaper.  
+- 👀 I’m interested in the original BitCoin/Si
 - 🌱 I’m currently learning BitCoin/Si
 - 💞️ I’m looking to collaborate on BitCoin/Si
 - 📫 You can reach me on X
