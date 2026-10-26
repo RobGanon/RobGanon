@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobGanon
-- 👀 I’m interested in the original BitCoin/Si
-- 🌱 I’m currently learning BitCoin/Si
-- 💞️ I’m looking to collaborate on BitCoin/Si
+- 👀 I’m interested in the original BitCoin/AI/SI
+- 🌱 I’m currently learning BitCoin/AI/SI
+- 💞️ I’m looking to collaborate on BitCoin/AI/Si
 - 📫 You can reach me on X
 
 <!---
