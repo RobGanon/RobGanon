@@ -1,3 +1,4 @@
+- 🔐 Building [SealRun](https://github.com/RobGanon/bsv-ai-security) — verify an AI run before it starts, prove it afterwards.
 - 👋 Hi, I’m @RobGanon
 - 👀 I’m interested in the original BitCoin/AI/SI
 - 🌱 I’m currently learning BitCoin/AI/SI
